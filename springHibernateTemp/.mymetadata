@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="springHibernateTemp"
+  id="myeclipse.1474016308898"
+  context-root="/springHibernateTemp"
+  j2ee-spec="6.0"
+  archive="springHibernateTemp.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
